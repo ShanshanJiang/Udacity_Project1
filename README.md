@@ -4,6 +4,7 @@
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
+5. [Acknowledgements](#ack) 
 
 ## Installation <a name="installation"></a>
 
@@ -32,3 +33,8 @@ For this project, I was interested in using the Seattle Airbnb Data from 2016pro
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the post available [here](https://medium.com/@jiang.smallq/how-much-does-it-cost-to-live-in-an-airbnb-in-seattle-6ad7fc9f57bf).
+
+
+## Acknowledgements<a name="ack"></a>
+
+The raw data source comes from [kaggle](https://www.kaggle.com/datasets/airbnb/seattle?datasetId=393).
