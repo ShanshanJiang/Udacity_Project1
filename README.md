@@ -13,7 +13,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 For this project, I was interested in using the Seattle Airbnb Data from 2016provided by [kaggle](https://www.kaggle.com/datasets/airbnb/seattle?datasetId=393) to better understand:
 
-1. Is there any peak season for Airbnb in Seattle?
+1. When is the best time to visit Seattle?
 2. Is the Airbnb in Seattle occupied by some big host with many listings, or it's more like small business?
 3. Is the type of house impacting the price?
 
@@ -31,6 +31,4 @@ For this project, I was interested in using the Seattle Airbnb Data from 2016pro
 
 ## Results<a name="results"></a>
 
-TODO
-
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://medium.com/@jiang.smallq/how-much-does-it-cost-to-live-in-an-airbnb-in-seattle-6ad7fc9f57bf).
