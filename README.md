@@ -14,8 +14,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interested in using the Seattle Airbnb Data from 2016provided by [kaggle](https://www.kaggle.com/datasets/airbnb/seattle?datasetId=393) to better understand:
 
 1. Is there any peak season for Airbnb in Seattle?
-2. Is the Airbnb in Seattle occupied by some host with many listings, or it's more like small business?
-3. Is the type of house impacting the price and popularity?
+2. Is the Airbnb in Seattle occupied by some big host with many listings, or it's more like small business?
+3. Is the type of house impacting the price?
 
 ## File Descriptions <a name="files"></a>
 
